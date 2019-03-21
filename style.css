@@ -1,0 +1,100 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    margin: 20px;
+    padding: inherit;
+}
+tbody:nth-child(odd) {
+    background-color: gray;
+}
+
+tbody:nth-child(even); {
+    background-color: white;
+}
+
+.submitBtn {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin-left: 30px;
+    width: 80%;
+    overflow: hidden;
+}
+
+button {
+    width: 80%;
+}
+
+table {
+    width: 90%;
+}
+
+th,
+td {
+    height: 50px;
+    text-align: center;
+}
+
+.nameCol {
+    width: 250px;
+}
+
+.value {
+    width: 200px;
+}
+
+.loader {
+    position: absolute;
+    border: 8px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 8px solid #3498db;
+    width: 60px;
+    height: 60px;
+    animation: spin 3s linear infinite;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+
+.animate-bottom {
+    position: relative;
+    animation-name: animatebottom;
+    animation-duration: 2s;
+    animation-name: animatebottom;
+    animation-duration: 2s
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+d_row .ico-img {
+    margin-right: 10px;
+}
+.d_row .ico-img {
+    height: 30px;
+}
+.ico-img {
+    max-width: 30px;
+    margin-right: 20px;
+    margin-top: -4px;
+    height: 30px;
+}
+img {
+    vertical-align: left;
+    border-style: none;
+    }
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+
