@@ -1,0 +1,530 @@
+[
+    {
+        "id": "bitcoin",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "price_usd": "4082.08191858",
+        "price_btc": "1.0",
+        "24h_volume_usd": "10018399177.4",
+        "market_cap_usd": "71846886912.0",
+        "percent_change_24h": "0.36",
+        "last_updated": "1553121683"
+    },
+    {
+        "id": "basic-attention-token",
+        "name": "Basic Attention Token",
+        "symbol": "BAT",
+        "price_usd": "0.1948150332",
+        "price_btc": "0.00004766",
+        "24h_volume_usd": "10258091.3992",
+        "percent_change_24h": "0.25",
+        "last_updated": "1553122443"
+    },
+    {
+        "id": "ethereum",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "price_usd": "140.483143338",
+        "price_btc": "0.03445884",
+        "24h_volume_usd": "4609443516.13",
+        "market_cap_usd": "14795641440.0",
+        "percent_change_24h": "0.2",
+        "last_updated": "1553121677"
+    },
+    {
+        "id": "ripple",
+        "name": "XRP",
+        "symbol": "XRP",
+        "price_usd": "0.3186434206",
+        "price_btc": "0.00007816",
+        "24h_volume_usd": "800689008.045",
+        "market_cap_usd": "13276602354.0",
+        "percent_change_24h": "-0.27",
+        "last_updated": "1553121662"
+    },
+    {
+        "id": "aeternity",
+        "name": "Aeternity",
+        "symbol": "AE",
+        "price_usd": "0.4780991725",
+        "price_btc": "0.00011697",
+        "24h_olume_usd": "73847171.57",
+        "percent_change_24h": "2.88",
+        "last_updated": "1553122443"
+    },
+    {
+        "id": "siacoin",
+        "name": "Siacoin",
+        "symbol": "SC",
+        "price_usd": "0.0027929716",
+        "price_btc": "0.00000068",
+        "24h_volume_usd": "3261401.66396",
+        "percent_change_24h": "0.26",
+        "last_updated": "1553122442"
+    },
+    {
+        "id": "verge",
+        "name": "Verge",
+        "symbol": "XVG",
+        "price_usd": "0.0070360642",
+        "price_btc": "0.00000172",
+        "24h_volume_usd": "1392227.31102",
+        "percent_change_24h": "0.78",
+        "last_updated": "1553122442"
+    },
+    {
+        "id": "pundi-x",
+        "name": "Pundi X",
+        "symbol": "NPXS",
+        "price_usd": "0.0006312166",
+        "price_btc": "0.00000015",
+        "24h_volume_usd": "2186922.15232",
+        "percent_change_24h": "-1.82",
+        "last_updated": "1553122446"
+    },
+    {
+        "id": "bytom",
+        "name": "Bytom",
+        "symbol": "BTM",
+        "price_usd": "0.1092178314",
+        "price_btc": "0.00002672",
+        "24h_volume_usd": "5449788.63999",
+        "percent_change_24h": "7.2",
+        "last_updated": "1553122443"
+    },
+    {
+        "id": "litecoin",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "price_usd": "60.8779221771",
+        "price_btc": "0.01493263",
+        "24h_volume_usd": "1969772975.74",
+        "percent_change_24h": "0.92",
+        "last_updated": "1553121664"
+    },
+    {
+        "id": "eos",
+        "name": "EOS",
+        "symbol": "EOS",
+        "price_usd": "3.7366780813",
+        "price_btc": "0.00091656",
+        "24h_volume_usd": "1419091133.27",
+        "market_cap_usd": "3386346267.0",
+        "percent_change_24h": "-0.94",
+        "last_updated": "1553121665"
+    },
+    {
+        "id": "bitcoin-cash",
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "price_usd": "159.797022926",
+        "price_btc": "0.0391963",
+        "24h_volume_usd": "388085507.82",
+        "market_cap_usd": "2825754675.0",
+        "percent_change_24h": "-1.25",
+        "last_updated": "1553121664"
+    },
+    {
+        "id": "binance-coin",
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "price_usd": "15.2872113449",
+        "price_btc": "0.00374977",
+        "24h_volume_usd": "133286075.902",
+        "arket_cap_usd": "2158179556.0",
+        "percent_change_24h": "-1.81",
+        "last_updated": "1553121663"
+    },
+    {
+        "id": "stellar",
+        "name": "Stellar",
+        "symbol": "XLM",
+        "price_usd": "0.1118587462",
+        "price_btc": "0.00002744",
+        "24h_volume_usd": "284859847.785",
+        "percent_change_24h": "-1.64",
+        "last_updated": "1553121662"
+    },
+    {
+        "id": "tether",
+        "name": "Tether",
+        "symbol": "USDT",
+        "price_usd": "1.0100441362",
+        "price_btc": "0.00024775",
+        "24h_volume_usd": "9291558290.88",
+        "percent_change_24h": "-0.51",
+        "last_updated": "1553121670"
+    },
+    {
+        "id": "tron",
+        "name": "TRON",
+        "symbol": "TRX",
+        "price_usd": "0.0230158454",
+        "price_btc": "0.00000565",
+        "24h_volume_usd": "164529917.215",
+        "percent_change_24h": "-0.36",
+        "last_updated": "1553121665"
+    },
+    {
+        "id": "cardano",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "price_usd": "0.0534779378",
+        "price_btc": "0.00001312",
+        "24h_volume_usd": "47315300.1511",
+        "percent_change_24h": "2.04",
+        "last_updated": "1553121664"
+    },
+    {
+        "id": "bitcoin-sv",
+        "name": "Bitcoin SV",
+        "symbol": "BSV",
+        "price_usd": "66.7653716794",
+        "price_btc": "0.01637675",
+        "24h_volume_usd": "87170351.1158",
+        "percent_change_24h": "-0.31",
+        "last_updated": "1553121669"
+    },
+    {
+        "id": "monero",
+        "name": "Monero",
+        "symbol": "XMR",
+        "price_usd": "55.970485242",
+        "price_btc": "0.01372889",
+        "24h_volume_usd": "89031433.6228",
+        "percent_change_24h": "2.01",
+        "last_updated": "1553121662"
+    },
+    {
+        "id": "iota",
+        "name": "IOTA",
+        "symbol": "MIOTA",
+        "price_usd": "0.2995643902",
+        "price_btc": "0.00007348",
+        "24h_volume_usd": "13297857.6814",
+        "percent_change_24h": "1.07",
+        "last_updated": "1553121663"
+    },
+    {
+        "id": "dash",
+        "name": "Dash",
+        "symbol": "DASH",
+        "price_usd": "93.7408277216",
+        "price_btc": "0.02299351",
+        "24h_volume_usd": "276189224.876",
+        "percent_change_24h": "1.4",
+        "last_updated": "1553121662"
+    },
+    {
+        "id": "maker",
+        "name": "Maker",
+        "symbol": "MKR",
+        "price_usd": "709.3697308",
+        "price_btc": "0.17399993",
+        "24h_volume_usd": "1590161.34154",
+        "percent_change_24h": "0.57",
+        "last_updated": "1553121662"
+    },
+    {
+        "id": "ontology",
+        "name": "Ontology",
+        "symbol": "ONT",
+        "price_usd": "1.3072210399",
+        "price_btc": "0.00032065",
+        "24h_volume_usd": "138731180.361",
+        "percent_change_24h": "16.61",
+        "last_updated": "1553121666"
+    },
+    {
+        "id": "neo",
+        "name": "NEO",
+        "symbol": "NEO",
+        "price_usd": "9.3744127277",
+        "price_btc": "0.00229943",
+        "24h_volume_usd": "307449673.313",
+        "percent_change_24h": "0.69",
+        "last_updated": "1553121663"
+    },
+    {
+        "id": "ethereum-classic",
+        "name": "Ethereum Classic",
+        "symbol": "ETC",
+        "price_usd": "4.6202887609",
+        "price_btc": "0.0011333",
+        "24h_volume_usd": "230967594.509",
+        "percent_change_24h": "-0.0",
+        "last_updated": "1553121664"
+    },
+    {
+        "id": "nem",
+        "name": "NEM",
+        "symbol": "XEM",
+        "price_usd": "0.0507147309",
+        "price_btc": "0.00001244",
+        "24h_volume_usd": "17923701.6525",
+        "percent_change_24h": "2.65",
+        "last_updated": "1553121662"
+    },
+    {
+        "id": "tezos",
+        "name": "Tezos",
+        "symbol": "XTZ",
+        "price_usd": "0.6147082114",
+        "price_btc": "0.00015078",
+        "24h_volume_usd": "8722340.54577",
+        "percent_change_24h": "6.84",
+        "last_updated": "1553121663"
+    },
+    {
+        "id": "zcash",
+        "name": "Zcash",
+        "symbol": "ZEC",
+        "price_usd": "59.2335689813",
+        "price_btc": "0.01452929",
+        "percent_change_24h": "4.36",
+        "last_updated": "1553121663"
+    },
+    {
+        "id": "vechain",
+        "name": "VeChain",
+        "symbol": "VET",
+        "price_usd": "0.0056576602",
+        "price_btc": "0.00000139",
+        "24h_volume_usd": "19047837.2014",
+        "percent_change_24h": "4.18",
+        "last_updated": "1553121668"
+    },
+    {
+        "id": "crypto-com-chain",
+        "name": "Crypto.com Chain",
+        "symbol": "CRO",
+        "price_usd": "0.0719336073",
+        "price_btc": "0.00001764",
+        "24h_volume_usd": "1394924.24801",
+        "percent_change_24h": "-0.32",
+        "last_updated": "1553121669"
+    },
+    {
+        "id": "waves",
+        "name": "Waves",
+        "symbol": "WAVES",
+        "price_usd": "2.8320699294",
+        "price_btc": "0.00069467",
+        "24h_volume_usd": "12637780.9497",
+        "percent_change_24h": "2.06",
+        "last_updated": "1553121663"
+    },
+    {
+        "id": "dogecoin",
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "price_usd": "0.0020643117",
+        "price_btc": "0.00000051",
+        "24h_volume_usd": "18037072.9425",
+        "percent_change_24h": "-1.16",
+        "last_updated": "1553121663"
+    },
+
+    {
+        "id": "bitcoin-gold",
+        "name": "Bitcoin Gold",
+        "symbol": "BTG",
+        "price_usd": "13.451556244",
+        "price_btc": "0.00329951",
+        "24h_volume_usd": "9866962.15541",
+        "percent_change_24h": "0.62",
+        "last_updated": "1553121664"
+        },
+    {
+        "id": "qtum",
+        "name": "Qtum",
+        "symbol": "QTUM",
+        "price_usd": "2.5549150365",
+        "price_btc": "0.00062669",
+        "24h_volume_usd": "405645391.599",
+        "percent_change_24h": "0.78",
+        "last_updated": "1553121664"
+        },
+    {
+        "id": "omisego",
+        "name": "OmiseGO",
+        "symbol": "OMG",
+        "price_usd": "1.5499267876",
+        "price_btc": "0.00038018",
+        "24h_volume_usd": "55299245.2266",
+        "percent_change_24h": "2.77",
+        "last_updated": "1553121663"
+        },
+    {
+        "id": "decred",
+        "name": "Decred",
+        "symbol": "DCR",
+        "price_usd": "19.2728786027",
+        "price_btc": "0.00472741",
+        "24h_volume_usd": "1709509.91258",
+        "percent_change_24h": "0.22",
+        "last_updated": "1553121662"
+        },
+    {
+        "id": "lisk",
+        "name": "Lisk",
+        "symbol": "LSK",
+        "price_usd": "1.5344886842",
+        "price_btc": "0.00037639",
+        "24h_volume_usd": "4884735.13317",
+        "percent_change_24h": "0.67",
+        "last_updated": "1553121662"
+        },
+    {
+        "id": "chainlink",
+        "name": "Chainlink",
+        "symbol": "LINK",
+        "price_usd": "0.4849335283",
+        "price_btc": "0.00011895",
+        "24h_volume_usd": "3586831.26499",
+        "percent_change_24h": "0.67",
+        "last_updated": "1553121663"
+        },
+    {
+        "id": "zilliqa",
+        "name": "Zilliqa",
+        "symbol": "ZIL",
+        "price_usd": "0.0191321445",
+        "price_btc": "0.00000469",
+        "24h_volume_usd": "20677337.6433",
+        "percent_change_24h": "4.06",
+        "last_updated": "1553121666"
+        },
+    {
+        "id": "augur",
+        "name": "Augur",
+        "symbol": "REP",
+        "price_usd": "15.000978449",
+        "price_btc": "0.00367956",
+        "24h_volume_usd": "3057683.55194",
+        "percent_change_24h": "1.44",
+        "last_updated": "1553121661"
+        },
+    {
+        "id": "icon",
+        "name": "ICON",
+        "symbol": "ICX",
+        "price_usd": "0.3398543267",
+        "price_btc": "0.00008336",
+        "24h_volume_usd": "14013397.117",
+        "percent_change_24h": "-1.65",
+        "last_updated": "1553121664"
+        },
+    {
+        "id": "0x",
+        "name": "0x",
+        "symbol": "ZRX",
+        "price_usd": "0.2720055343",
+        "price_btc": "0.00006672",
+        "24h_volume_usd": "15482599.2946",
+        "percent_change_24h": "0.62",
+        "last_updated": "1553121664"
+        },
+    {
+        "id": "digibyte",
+        "name": "DigiByte",
+        "symbol": "DGB",
+        "price_usd": "0.0134790471",
+        "price_btc": "0.00000331",
+        "24h_volume_usd": "1215200.03672",
+        "percent_change_24h": "-1.14",
+        "last_updated": "1553121661"
+        },
+    {
+        "id": "aurora",
+        "name": "Aurora",
+        "symbol": "AOA",
+        "price_usd": "0.0135604899",
+        "price_btc": "0.00000332",
+        "24h_volume_usd": "1542895.16438",
+        "percent_change_24h": "-1.17",
+        "last_updated": "1553122448"
+        },
+    {
+        "id": "steem",
+        "name": "Steem",
+        "symbol": "STEEM",
+        "price_usd": "0.4904365815",
+        "price_btc": "0.0001203",
+        "24h_volume_usd": "3455842.01706",
+        "percent_change_24h": "5.81",
+        "last_updated": "1553121662"
+        },
+    {
+        "id": "golem-network-tokens",
+        "name": "Golem",
+        "symbol": "GNT",
+        "price_usd": "0.0831424678",
+        "price_btc": "0.00002034",
+        "24h_volume_usd": "17471922.9892",
+        "percent_change_24h": "9.47",
+        "last_updated": "1553122442"
+        },
+    {
+        "id": "populous",
+        "name": "Populous",
+        "symbol": "PPT",
+        "price_usd": "1.465270709",
+        "price_btc": "0.0003585",
+        "24h_volume_usd": "1327800.69674",
+        "percent_change_24h": "0.28",
+        "last_updated": "1553122443"
+        },
+    {
+        "id": "bytecoin-bcn",
+        "name": "Bytecoin",
+        "symbol": "BCN",
+        "price_usd": "0.0007671892",
+        "price_btc": "0.00000019",
+        "24h_volume_usd": "209161.865962",
+        "percent_change_24h": "-1.38",
+        "last_updated": "1553121661"
+        },
+
+    {
+        "id": "bitshares",
+        "name": "BitShares",
+        "symbol": "BTS",
+        "price_usd": "0.050609695",
+        "price_btc": "0.00001241",
+        "24h_volume_usd": "6910077.21207",
+        "percent_change_24h": "-0.37",
+        "last_updated": "1553121662"
+        },
+    {
+        "id": "nano",
+        "name": "Nano",
+        "symbol": "NANO",
+        "price_usd": "1.0230117954",
+        "price_btc": "0.00025093",
+        "24h_volume_usd": "2199589.2064",
+        "percent_change_24h": "1.44",
+        "last_updated": "1553121662"
+        },
+
+    {
+        "id": "bitcoin-diamond",
+        "name": "Bitcoin Diamond",
+        "symbol": "BCD",
+        "price_usd": "0.8572725418",
+        "price_btc": "0.00021028",
+        "24h_volume_usd": "1487502.96262",
+        "percent_change_24h": "-0.7",
+        "last_updated": "1553121664"
+        },
+    {
+        "id": "theta",
+        "name": "THETA",
+        "symbol": "THETA",
+        "price_usd": "0.1261554985",
+        "price_btc": "0.00003094",
+        "24h_volume_usd": "6134774.93253",
+        "percent_change_24h": "-1.63",
+        "last_updated": "1553121665"
+        }
+    ]
